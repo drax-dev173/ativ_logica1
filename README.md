@@ -1,1 +1,0 @@
-"# ativ_logica1" 
